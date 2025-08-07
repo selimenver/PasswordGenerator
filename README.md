@@ -1,2 +1,2 @@
 # PasswordGenerator
--It will create a random 8 length password 
+- It will create a random 8 length password 
