@@ -1,2 +1,2 @@
 # PasswordGenerator
-Password generator that prints 8 word length password
+-It will create a random 8 length password 
